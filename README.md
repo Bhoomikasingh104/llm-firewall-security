@@ -26,11 +26,10 @@ SENTINEL AI intercepts every prompt, document attachment, and completion through
 ## 🌐 Live Deployment Matrix
 
 | Environment | Endpoint / URL | Purpose |
-| :--- | :--- | :--- |
-| **Production Cloud (Vercel)** | [https://sentinel-frontend-five-theta.vercel.app](https://sentinel-frontend-five-theta.vercel.app) | Live React 19 SOC Security Dashboard |
-| **Live Kali Linux VM Tunnel** | [https://tazqe-103-89-235-244.free.pinggy.net](https://tazqe-103-89-235-244.free.pinggy.net) | Public HTTPS tunnel to live Linux Gateway |
-| **Local Gateway API (FastAPI)** | `http://localhost:8000` | Inbound & Outbound Security Proxy |
-| **Interactive API Docs (Swagger)**| `http://localhost:8000/docs` | Live OpenAPI test console for `/api/v1/scans` |
+|---|---|---|
+| **Production Cloud (Vercel)** | [Live Dashboard](https://sentinel-frontend-five-theta.vercel.app) | React 19 SOC Security Dashboard |
+| **Local Gateway API (FastAPI)** | `http://localhost:8000` | Inbound and Outbound Security Proxy |
+| **Interactive API Docs (Swagger)** | `http://localhost:8000/docs` | OpenAPI testing console for `/api/v1/scans` |
 | **Local React Dev Server (Vite)** | `http://localhost:5173` | Hot-reloading development environment |
 
 ---
