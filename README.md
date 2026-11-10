@@ -1,7 +1,4 @@
 # SENTINEL AI: LLM Security Firewall & Enterprise Gateway
-### Hackatopia 2026 — Cyber Security + Blockchain Track
-**Problem Statement ID:** `CB-01` *(Original Code: CS-02)*  
-**Category:** LLM Security, Classifiers & Gateway Proxies  
 **Objective:** Build a gateway sitting between users, data sources, and an LLM app that detects direct and indirect prompt injection, jailbreaks, and sensitive data leaks, and blocks or cleans them while letting normal traffic through.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel%20Production-00f2fe?style=for-the-badge&logo=vercel)](https://sentinel-frontend-five-theta.vercel.app)
