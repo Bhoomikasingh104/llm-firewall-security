@@ -8,7 +8,7 @@
 [![API Gateway](https://img.shields.io/badge/FastAPI%20Gateway-Localhost:8000-00d26a?style=for-the-badge&logo=fastapi)](http://localhost:8000/docs)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
-[![Linux Defense](https://img.shields.io/badge/Linux%20Engine-YARA%20%2B%20ClamAV%20%2B%20tshark-E95420?style=for-the-badge&logo=linux)](https://github.com/sahilbobul-design/cb-01-llm-firewall)
+[![Linux Defense](https://img.shields.io/badge/Linux%20Engine-YARA%20%2B%20ClamAV%20%2B%20tshark-E95420?style=for-the-badge&logo=linux)](https://github.com/Bhoomikasingh104/llm-firewall-security.git)
 
 ---
 
