@@ -1,4 +1,4 @@
-# 🛡️ SENTINEL AI — LLM Security Firewall & Enterprise Gateway
+# SENTINEL AI: LLM Security Firewall & Enterprise Gateway
 ### Hackatopia 2026 — Cyber Security + Blockchain Track
 **Problem Statement ID:** `CB-01` *(Original Code: CS-02)*  
 **Category:** LLM Security, Classifiers & Gateway Proxies  
