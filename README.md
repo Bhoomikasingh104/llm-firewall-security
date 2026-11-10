@@ -219,9 +219,3 @@ pytest tests/test_api_and_pipeline.py -v
 
 ---
 
-## 👥 Hackatopia 2026 Team & Attribution
-
-- **Project:** SENTINEL AI — LLM Security Firewall
-- **Problem Statement:** `CB-01` — LLM firewall against prompt injection
-- **GitHub Repository:** [https://github.com/sahilbobul-design/cb-01-llm-firewall](https://github.com/sahilbobul-design/cb-01-llm-firewall)
-- **Production URL:** [https://sentinel-frontend-five-theta.vercel.app](https://sentinel-frontend-five-theta.vercel.app)
