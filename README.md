@@ -145,9 +145,9 @@ The gateway is validated against recognized industry benchmark corpora:
 ### 2. Localhost Setup (Windows / macOS / Linux)
 
 ```bash
-# Clone the repository
-git clone https://github.com/sahilbobul-design/cb-01-llm-firewall.git
-cd cb-01-llm-firewall
+
+# git clone https://github.com/Bhoomikasingh104/llm-firewall-security.git
+cd llm-firewall-security
 
 # 1. Start Backend API Gateway
 python -m pip install -r backend/requirements.txt
