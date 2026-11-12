@@ -146,7 +146,7 @@ The gateway is validated against recognized industry benchmark corpora:
 
 ```bash
 
-# git clone https://github.com/Bhoomikasingh104/llm-firewall-security.git
+ git clone https://github.com/Bhoomikasingh104/llm-firewall-security.git
 cd llm-firewall-security
 
 # 1. Start Backend API Gateway
